@@ -9,15 +9,18 @@
 --------------------------------------------------------------*/
 body {
   background: #fff;
-  color: #037ef3;
+  color: #666666;
   font-family: "Open Sans", sans-serif;
 }
 
 a {
-  color: ;
+  color: #2dc997;
 }
 
-
+a:hover, a:active, a:focus {
+  color: #2dca98;
+  outline: none;
+  text-decoration: none;
 }
 
 p {
@@ -71,7 +74,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .back-to-top:hover {
-  background: ;
+  background: #2dc997;
   color: #fff;
 }
 
@@ -294,7 +297,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 2px;
   bottom: 0;
   left: 0;
-  background-color: ;
+  background-color: #2dc997;
   visibility: hidden;
   -webkit-transform: scaleX(0);
   transform: scaleX(0);
@@ -331,7 +334,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu ul li a:hover {
-  background: #333 ;
+  background: #2dc997;
   color: #fff;
 }
 
@@ -419,11 +422,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #mobile-nav ul .menu-has-children i.fa-chevron-up {
-  color: ;
+  color: #2dc997;
 }
 
 #mobile-nav ul .menu-item-active {
-  color: ;
+  color: #2dc997;
 }
 
 #mobile-body-overly {
@@ -518,11 +521,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   background: #fff;
   padding: 16px;
   border-radius: 50%;
-  border: 2px solid ;
+  border: 2px solid #2dc997;
 }
 
 #about .about-container .icon-box .icon i {
-  color: ;
+  color: #2dc997;
   font-size: 24px;
 }
 
