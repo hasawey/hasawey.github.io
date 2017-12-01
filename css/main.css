@@ -17,10 +17,7 @@ a {
   color: #2dc997;
 }
 
-a:hover, a:active, a:focus {
-  color: none;
-  outline: none;
-  text-decoration: none;
+
 }
 
 p {
